@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=76b6d5&height=180&text=*ੈ✩‧₊˚(๑%20ᐢ%20ᵕ%20ᐢ%20๑)%20Your%20The%20Best%20*ੈ✩‧₊˚&animation=twinkling&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=76b6d5&height=180&text=*ੈ✩‧₊˚(๑%20ᐢ%20ᵕ%20ᐢ%20๑)%20You're%20The%20Best%20*ੈ✩‧₊˚&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
@@ -8,8 +8,7 @@
         WhiteHat School (3rd Cohort)<br/>
         AI Security Research<br/>
         Security Product Development
-</div>
-
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
