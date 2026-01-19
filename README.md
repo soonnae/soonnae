@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         B.S. in Computer Engineering (Smart Security), Gachon University<br/>
-        B.S. Student, SILAB (Security Intelligence Lab)
+        B.S. Student, SILAB (Security Intelligence Lab)<br/>
         WhiteHat School (3rd Cohort)<br/>
         AI Security Research<br/>
         Security Product Development
