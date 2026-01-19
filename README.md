@@ -3,7 +3,11 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> B.S. in Computer Engineering (Smart Security), Gachon University</li></li>WhiteHat School (3rd Cohort) </li></li>AI Security Research </li></li>Security Product Development </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+        B.S. in Computer Engineering (Smart Security), Gachon University<br/>
+        WhiteHat School (3rd Cohort)<br/>
+        AI Security Research<br/>
+        Security Product Development
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
